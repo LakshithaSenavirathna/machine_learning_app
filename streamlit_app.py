@@ -19,7 +19,6 @@ with st.expander('Data'):
   y
 
 with st.expander('Data Visualization'):
-  # "bill_length_mm","bill_depth_mm","flipper_length_mm","body_mass_g"
   st.scatter_chart(data = df , x = 'bill_length_mm' , y = 'body_mass_g' , color = 'species' )
 
 
@@ -27,7 +26,6 @@ with st.expander('Data Visualization'):
 
 with st.sidebar:
   st.header('Input Features')
-  # "island","bill_length_mm","bill_depth_mm","flipper_length_mm","body_mass_g","sex"
   island = st.selectbox('island', ('Torgersen', 'Biscoe', 'Dream') )
   sex = st.selectbox('sex', ('male', 'female'))
   bill_length_mm = st.slider('bill_length_mm', 32.1, 59.6, 43.9)
