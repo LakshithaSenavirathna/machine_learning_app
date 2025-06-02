@@ -85,6 +85,7 @@ clf.fit(X, y)
 
 ## Apply model to make predictions
 prediction = clf.predict(input_row)
+prediction
 prediction_proba = clf.predict_proba(input_row)
 
 df_prediction_proba = pd.DataFrame(prediction_proba)
