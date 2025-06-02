@@ -68,4 +68,4 @@ with st.expander('input features'):
   st.write("Encoded input penguin")
   input_row
   
-y
+
