@@ -54,7 +54,7 @@ st.info("🐧 Discover which penguin species matches your measurements! Explore 
 
 with st.expander('Data'):
   st.write('**Raw Data**')
-  df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/penguins_cleaned.csv')
+  df = pd.read_csv('penguin_dataset.csv')
   df 
   st.write('**X**')
   X_raw = df.drop('species', axis=1)
