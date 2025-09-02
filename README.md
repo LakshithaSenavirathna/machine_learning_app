@@ -14,11 +14,11 @@ This interactive Streamlit app uses a Random Forest classifier to identify pengu
 
 ## Features
 
-Interactive Prediction: Input penguin measurements through user-friendly sliders and dropdowns.
-Real-time Classification: Get instant species predictions with probability scores.
-Data Visualization: Explore the dataset with interactive scatter plots.
-Custom Styling: Beautiful interface with background image and dark mode sidebar.
-
+- Interactive Prediction: Input penguin measurements through user-friendly sliders and dropdowns.
+- Real-time Classification: Get instant species predictions with probability scores.
+- Data Visualization: Explore the dataset with interactive scatter plots.
+- Custom Styling: Beautiful interface with background image.
+ 
 ## Dataset
 The app uses the Palmer Penguins dataset, which contains measurements of penguin species from Palmer Station, Antarctica. The dataset includes:
 
