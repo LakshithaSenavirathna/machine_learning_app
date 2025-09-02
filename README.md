@@ -1,7 +1,7 @@
 
 # Palmer Penguin Classification Model
 A machine learning web application that predicts penguin species based on physical measurements using the Palmer Penguins dataset.
-🐧 ## **About**
+## **About**
 This interactive Streamlit app uses a Random Forest classifier to identify penguin species (Adelie, Chinstrap, or Gentoo) based on their physical characteristics such as bill length, bill depth, flipper length, body mass, sex, and island location.
 
 ## Demo App
