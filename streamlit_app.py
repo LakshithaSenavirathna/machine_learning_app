@@ -49,8 +49,8 @@ def set_background_image(image_path):
 
 set_background_image("img.jpg")
 
-st.title('Machine Learning App')
-st.info("Let's make a machine learning model.")
+st.title('Palmer Penguins Classification Model')
+st.info("🐧 Discover which penguin species matches your measurements! Explore the fascinating world of Antarctic wildlife through AI-powered classification.")
 
 with st.expander('Data'):
   st.write('**Raw Data**')
