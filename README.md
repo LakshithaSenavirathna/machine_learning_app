@@ -1,7 +1,4 @@
-# Machine Learning App🐧
-```
-Finding the species of a penguin
-```
+
 # Palmer Penguin Classification Model
 A machine learning web application that predicts penguin species based on physical measurements using the Palmer Penguins dataset.
 🐧 ## **About**
