@@ -49,7 +49,7 @@ def set_background_image(image_path):
 
 set_background_image("img.jpg")
 
-st.title('Palmer Penguin Classification Model')
+st.title('Palmer Penguin Classification')
 st.info("🐧 Discover which penguin species matches your measurements! Explore the fascinating world of Antarctic wildlife through AI-powered classification.")
 
 with st.expander('Data'):
