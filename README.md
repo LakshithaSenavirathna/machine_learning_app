@@ -12,6 +12,8 @@ This interactive Streamlit app uses a Random Forest classifier to identify pengu
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
+<img width="1361" height="767" alt="Image" src="https://github.com/user-attachments/assets/3e09652e-d0ac-4ac8-a4b8-a7ca2726ca16" />
+
 ## Features
 
 - Interactive Prediction: Input penguin measurements through user-friendly sliders and dropdowns.
