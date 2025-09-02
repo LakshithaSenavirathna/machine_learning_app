@@ -47,7 +47,7 @@ def set_background_image(image_path):
     except FileNotFoundError:
         st.warning("Background image 'img.jpg' not found. Please make sure the file exists in the same directory as your script.")
 
-set_background_image("img.jpg")
+set_background_image("img.webp")
 
 st.title('Palmer Penguin Classification')
 st.info("🐧 Discover which penguin species matches your measurements! Explore the fascinating world of Antarctic wildlife through AI-powered classification.")
